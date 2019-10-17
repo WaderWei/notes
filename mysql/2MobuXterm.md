@@ -14,26 +14,26 @@
 
 1. 点击Session
 
-   ![1570029702953](H:\gitwork\notes\VMware\2MobuXterm.assets\1570029702953.png)
+   ![1570029702953](.\2MobuXterm.assets\1570029702953.png)
 
 2. 点击SSH
 
-   ![1570029725332](H:\gitwork\notes\VMware\2MobuXterm.assets\1570029725332.png)
+   ![1570029725332](.\2MobuXterm.assets\1570029725332.png)
 
 3. 输入要远程服务器的ip
 
    查看CentOS的ip
 
-   ![1570029870423](H:\gitwork\notes\VMware\2MobuXterm.assets\1570029870423.png)
+   ![1570029870423](.\2MobuXterm.assets\1570029870423.png)
 
-   ![1570029931763](H:\gitwork\notes\VMware\2MobuXterm.assets\1570029931763.png)
+   ![1570029931763](.\2MobuXterm.assets\1570029931763.png)
 
 4. 输入用户名及密码
 
-   ![1570030136785](H:\gitwork\notes\VMware\2MobuXterm.assets\1570030136785.png)
+   ![1570030136785](.\2MobuXterm.assets\1570030136785.png)
 
 
 
 ### FTP 文件的上传与下载
 
-![1570030376473](H:\gitwork\notes\VMware\2MobuXterm.assets\1570030376473.png)
+![1570030376473](.\2MobuXterm.assets\1570030376473.png)

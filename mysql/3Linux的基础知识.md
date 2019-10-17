@@ -6,23 +6,23 @@
 
   1. 
 
-     ![1570027895948](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570027895948.png)
+     ![1570027895948](.\3Linux的基础知识.assets\1570027895948.png)
 
-     ![1570028297255](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570028297255.png)
+     ![1570028297255](.\3Linux的基础知识.assets\1570028297255.png)
      
      2. 虚拟机中的当前状态，下一步
      
-     ![1570028598977](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570028598977.png)
+     ![1570028598977](.\3Linux的基础知识.assets\1570028598977.png)
      
      3. 创建完整克隆
      
-        ![1570028677492](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570028677492.png)
+        ![1570028677492](.\3Linux的基础知识.assets\1570028677492.png)
      
         4. 选择实例名称，和克隆的位置
      
-           ![1570028843303](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570028843303.png)
+           ![1570028843303](.\3Linux的基础知识.assets\1570028843303.png)
            
-           ![1570029115549](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029115549.png)
+           ![1570029115549](.\3Linux的基础知识.assets\1570029115549.png)
      
      
 
@@ -30,21 +30,21 @@
 
   1. 拍摄快照
 
-     ![1570029213024](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029213024.png)
+     ![1570029213024](.\3Linux的基础知识.assets\1570029213024.png)
 
      2. 快照描述
 
-        ![1570029322465](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029322465.png)
+        ![1570029322465](.\3Linux的基础知识.assets\1570029322465.png)
 
      3. 管理快照，可以做删除等操作
 
-        ![1570029399392](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029399392.png)
+        ![1570029399392](.\3Linux的基础知识.assets\1570029399392.png)
 
-        ​	![1570029426460](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029426460.png)
+        ​	![1570029426460](.\3Linux的基础知识.assets\1570029426460.png)
 
         4. 恢复快照
 
-           ![1570029557238](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570029557238.png)
+           ![1570029557238](.\3Linux的基础知识.assets\1570029557238.png)
 
         
 
@@ -139,7 +139,7 @@
         
            执行1,2即可使用网易的yum源了。
         
-        ![1570031697484](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570031697484.png)
+        ![1570031697484](.\3Linux的基础知识.assets\1570031697484.png)
         
         
         
@@ -238,7 +238,7 @@
           bind-address = 0.0.0.0
         ```
         
-        ![1570109498950](H:\gitwork\notes\VMware\3Linux的基础知识.assets\1570109498950.png)
+        ![1570109498950](.\3Linux的基础知识.assets\1570109498950.png)
         
         
         

@@ -10,11 +10,11 @@
 
 3. redis需要对源码进行编译才能使用
 
-   ![1570800278724](H:\gitwork\notes\mysql\redis安装Linux版.assets\1570800278724.png)
+   ![1570800278724](.\redis安装Linux版.assets\1570800278724.png)
 
 4. 注意，redis.conf不在src目录中，而在它的上一级../
 
-   ![1570800388681](H:\gitwork\notes\mysql\redis安装Linux版.assets\1570800388681.png)
+   ![1570800388681](.\redis安装Linux版.assets\1570800388681.png)
 
 5. 连接redis客户端
 
@@ -26,11 +26,11 @@
 
 6. 修改redis.conf,允许远程，同时要记得开放端口
 
-   ![1570800581874](H:\gitwork\notes\mysql\redis安装Linux版.assets\1570800581874.png)
+   ![1570800581874](.\redis安装Linux版.assets\1570800581874.png)
 
    
 
-   ![1570800742487](H:\gitwork\notes\mysql\redis安装Linux版.assets\1570800742487.png)
+   ![1570800742487](.\redis安装Linux版.assets\1570800742487.png)
 
 7. 使用RDM（redis desktop manager）客户端连接redis服务
 

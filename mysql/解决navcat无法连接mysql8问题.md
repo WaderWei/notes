@@ -2,7 +2,7 @@
 
 ### 问题
 
-![1570197902588](H:\gitwork\notes\VMware\解决navcat无法连接mysql8问题.assets\1570197902588.png)
+![1570197902588](.\解决navcat无法连接mysql8问题.assets\1570197902588.png)
 
 ### 原因
 
@@ -47,6 +47,6 @@ mysql8.0版更换了新的身份验证是（caching_sha2_password）之前身份
 
 6. 测试连接
 
-   ![1570198313919](H:\gitwork\notes\VMware\解决navcat无法连接mysql8问题.assets\1570198313919.png)
+   ![1570198313919](.\解决navcat无法连接mysql8问题.assets\1570198313919.png)
 
    
